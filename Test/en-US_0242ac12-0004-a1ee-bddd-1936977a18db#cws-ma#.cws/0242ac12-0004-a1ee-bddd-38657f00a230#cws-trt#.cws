@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657f0d2230">
+	<DocumentID>0242ac12-0004-a1ee-bddd-38657f00a230</DocumentID>
+	<Name>0242ac12-0004-a1ee-bddd-38657f00a230</Name>
+	<Description>City</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-04-10T20:00:27.146</CreationDate>
+	<Notes/>
+	<Text>City</Text>
+	<Language>
+		<uri
+			id="0242ac12-0004-a1ee-bddd-1936792f18db"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac12-0004-a1ee-bddd-38657eea2230"
+		/>
+	</TextIdentifier>
+</TranslatedText>

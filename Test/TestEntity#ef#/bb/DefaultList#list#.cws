@@ -38,7 +38,59 @@
 		/>
 	</BuildingBlock>
 	<CardViewConfiguration/>
-	<ChartViewConfigurations/>
+	<ChartViewConfigurations>
+		<ChartViewConfiguration
+			type="com.cordys.entity.buildingblocks.worklist.ChartViewConfiguration"
+			RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657eae2230">
+			<DocumentID>0242ac12-0004-a1ee-bddd-38657ea42230</DocumentID>
+			<Name>0242ac120004a1eebddd38657ea42230_chartview_Association</Name>
+			<Description>0242ac120004a1eebddd38657ea42230_chartview_Association</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-04-10T20:00:36.178</CreationDate>
+			<Notes/>
+			<AggregatorName></AggregatorName>
+			<RendererName></RendererName>
+			<AggregatorAssociation>
+				<AggregatorAssociation
+					type="com.cordys.entity.buildingblocks.worklist.AggregatorAssociation"
+					RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657e8da230">
+					<DocumentID>0242ac12-0004-a1ee-bddd-38657e812230</DocumentID>
+					<Name>0242ac120004a1eebddd38657e812230_aggregator_Association</Name>
+					<Description>0242ac120004a1eebddd38657e812230_aggregator_Association</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-10T20:00:36.178</CreationDate>
+					<Notes/>
+					<Aggregator/>
+				</AggregatorAssociation>
+			</AggregatorAssociation>
+			<XAxisAssociation>
+				<XAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.XAxisAssociation"
+					RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657e772230">
+					<DocumentID>0242ac12-0004-a1ee-bddd-38657e6d2230</DocumentID>
+					<Name>0242ac120004a1eebddd38657e6d2230_xAxis_Association</Name>
+					<Description>0242ac120004a1eebddd38657e6d2230_xAxis_Association</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-10T20:00:36.177</CreationDate>
+					<Notes/>
+					<XAxis/>
+				</XAxisAssociation>
+			</XAxisAssociation>
+			<YAxisAssociation>
+				<YAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.YAxisAssociation"
+					RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657e632230">
+					<DocumentID>0242ac12-0004-a1ee-bddd-38657e592230</DocumentID>
+					<Name>0242ac120004a1eebddd38657e592230_yAxis_Association</Name>
+					<Description>0242ac120004a1eebddd38657e592230_yAxis_Association</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-10T20:00:36.178</CreationDate>
+					<Notes/>
+					<YAxis/>
+				</YAxisAssociation>
+			</YAxisAssociation>
+		</ChartViewConfiguration>
+	</ChartViewConfigurations>
 	<ConditionalCountCriteria/>
 	<CreatableAssociations/>
 	<DisplayName>
@@ -256,6 +308,80 @@
 			<Property>
 				<uri
 					id="0242ac12-0004-a1ee-bddd-1b71279e3fc0"
+				/>
+			</Property>
+			<WorklistDateFormat/>
+			<WorklistDateTimeFormat/>
+		</WorklistColumn>
+		<WorklistColumn
+			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
+			RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657e4ca230">
+			<DocumentID>0242ac12-0004-a1ee-bddd-38657e42a230</DocumentID>
+			<Name>Untitled WorklistColumn (2)</Name>
+			<Description>Untitled WorklistColumn (2)</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-04-10T20:00:36.178</CreationDate>
+			<Notes/>
+			<ColumnAlignment>0</ColumnAlignment>
+			<ColumnLabel></ColumnLabel>
+			<DataType>Text</DataType>
+			<DefaultSortType>0</DefaultSortType>
+			<Definition></Definition>
+			<FormatterName>resultSimple</FormatterName>
+			<HiddenInResult>false</HiddenInResult>
+			<InForm>true</InForm>
+			<IsComputedProperty>false</IsComputedProperty>
+			<ItemMemberId>0242ac12-0004-a1ee-bddd-1b7128253fc0</ItemMemberId>
+			<ItemMemberPath></ItemMemberPath>
+			<OwnerName>TestEntity</OwnerName>
+			<PropertyId>0242ac12-0004-a1ee-bddd-38657f55a230</PropertyId>
+			<PropertyName>City</PropertyName>
+			<StaticPropertyId></StaticPropertyId>
+			<ItemMemberPropertyPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657e38a230">
+					<DocumentID>0242ac12-0004-a1ee-bddd-38657e2ea230</DocumentID>
+					<Name>0242ac12-0004-a1ee-bddd-38657e2ea230</Name>
+					<Description>0242ac12-0004-a1ee-bddd-38657e2ea230</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-10T20:00:36.178</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
+					<IntermediateRelationships/>
+					<Object>
+						<uri
+							id="0242ac12-0004-a1ee-bddd-38657f4ba230"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="0242ac12-0004-a1ee-bddd-1b7126593fc0"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="0242ac12-0004-a1ee-bddc-0ced970fbfc0"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="0242ac12-0004-a1ee-bddd-38657f4ba230"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="0242ac12-0004-a1ee-bddc-0ced970fbfc0"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+			</ItemMemberPropertyPath>
+			<Layout/>
+			<LocalizableColumnLabel/>
+			<Property>
+				<uri
+					id="0242ac12-0004-a1ee-bddd-38657f4ba230"
 				/>
 			</Property>
 			<WorklistDateFormat/>

@@ -31,7 +31,7 @@
 			<ComponentId>1</ComponentId>
 			<ComponentParentId>0242ac12-0004-a1ee-bddd-1b71273f3fc0</ComponentParentId>
 			<ComponentType>FormsFragment</ComponentType>
-			<Definition>{&quot;isContainer&quot;:true,&quot;componentId&quot;:&quot;1&quot;,&quot;componentType&quot;:&quot;FormsFragment&quot;,&quot;componentParentId&quot;:&quot;0242ac12-0004-a1ee-bddd-1b71273f3fc0&quot;,&quot;id&quot;:&quot;0242ac12-0004-a1ee-bddd-1b7127303fc0&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;imageElementId&quot;:&quot;&quot;,&quot;nextHTMLContainerID&quot;:100,&quot;nextHTMLElementID&quot;:102,&quot;nextComponentID&quot;:102,&quot;presentationOptions&quot;:&quot;{\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;}&quot;,&quot;showTitleBar&quot;:false,&quot;oldFormId&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;collapsible&quot;:false,&quot;collapsed&quot;:false,&quot;lastAddedComponentId&quot;:&quot;102OTLayout&quot;,&quot;headerBackgroundColor&quot;:&quot;&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;formId&quot;:&quot;0242ac12-0004-a1ee-bddd-1b71273f3fc0&quot;,&quot;formElementName&quot;:&quot;&quot;,&quot;isGridOn&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;OTLayoutFormsFragment\&quot;,\&quot;left\&quot;:0,\&quot;top\&quot;:0,\&quot;right\&quot;:0,\&quot;bottom\&quot;:0,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:0,\&quot;topBasePx\&quot;:0,\&quot;widthBasePx\&quot;:0,\&quot;heightBasePx\&quot;:0,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0}&quot;,&quot;widthOfForm&quot;:228,&quot;heightOfForm&quot;:156}</Definition>
+			<Definition>{&quot;isContainer&quot;:true,&quot;componentId&quot;:&quot;1&quot;,&quot;componentType&quot;:&quot;FormsFragment&quot;,&quot;componentParentId&quot;:&quot;0242ac12-0004-a1ee-bddd-1b71273f3fc0&quot;,&quot;id&quot;:&quot;0242ac12-0004-a1ee-bddd-1b7127303fc0&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;imageElementId&quot;:&quot;&quot;,&quot;nextHTMLContainerID&quot;:100,&quot;nextHTMLElementID&quot;:103,&quot;nextComponentID&quot;:103,&quot;presentationOptions&quot;:&quot;{\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;}&quot;,&quot;showTitleBar&quot;:false,&quot;oldFormId&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;collapsible&quot;:false,&quot;collapsed&quot;:false,&quot;lastAddedComponentId&quot;:&quot;103OTLayout&quot;,&quot;headerBackgroundColor&quot;:&quot;&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;formId&quot;:&quot;0242ac12-0004-a1ee-bddd-1b71273f3fc0&quot;,&quot;formElementName&quot;:&quot;&quot;,&quot;heightOfForm&quot;:203,&quot;widthOfForm&quot;:230,&quot;isGridOn&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;OTLayoutFormsFragment\&quot;,\&quot;left\&quot;:0,\&quot;top\&quot;:0,\&quot;right\&quot;:0,\&quot;bottom\&quot;:0,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:0,\&quot;topBasePx\&quot;:0,\&quot;widthBasePx\&quot;:0,\&quot;heightBasePx\&quot;:0,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormTopContainerComponentType</ElementType>
 			<ElementTypeId>F1A7C0249CA3464CAE09FF03CE40B3E6</ElementTypeId>
 			<IsContainer>true</IsContainer>
@@ -143,6 +143,52 @@
 			<Property>
 				<uri
 					id="0242ac12-0004-a1ee-bddd-1b71279e3fc0"
+				/>
+			</Property>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
+			RuntimeDocumentID="0242ac12-0004-a1ee-bddd-38657e0ba230">
+			<DocumentID>0242ac12-0004-a1ee-bddd-38657dfca230</DocumentID>
+			<Name>FormPropertyComponentDYP3F31DAK1LBE4NPRFJ7RQCRONMDQMP</Name>
+			<Description>FormPropertyComponentDYP3F31DAK1LBE4NPRFJ7RQCRONMDQMP</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-04-10T20:00:45.153</CreationDate>
+			<Notes/>
+			<ComponentId>103</ComponentId>
+			<ComponentParentId>0242ac12-0004-a1ee-bddd-1b7127303fc0</ComponentParentId>
+			<ComponentType>PropertyComponent</ComponentType>
+			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;103&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0242ac12-0004-a1ee-bddd-1b7127303fc0&quot;,&quot;id&quot;:&quot;0242ac12-0004-a1ee-bddd-38657dfca230&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;City&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;context&quot;:&quot;Properties.City&quot;,&quot;contextId&quot;:&quot;0242ac12-0004-a1ee-bddd-1b71281b3fc0.0242ac12-0004-a1ee-bddd-38657f4ba230&quot;,&quot;entityElementId&quot;:&quot;0242ac12-0004-a1ee-bddc-0ced970fbfc0&quot;,&quot;propertyElementId&quot;:&quot;0242ac12-0004-a1ee-bddd-38657f4ba230&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;City\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_103\&quot;,\&quot;left\&quot;:30,\&quot;top\&quot;:140,\&quot;right\&quot;:190,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:30,\&quot;topBasePx\&quot;:140,\&quot;widthBasePx\&quot;:190,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<ElementType>FormPropertyComponent</ElementType>
+			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
+			<IsContainer>false</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CreatableAssociations/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent>
+				<uri
+					id="0242ac12-0004-a1ee-bddd-1b7127303fc0"
+				/>
+			</ParentComponent>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
+			<Property>
+				<uri
+					id="0242ac12-0004-a1ee-bddd-38657f4ba230"
 				/>
 			</Property>
 			<Relationship/>
